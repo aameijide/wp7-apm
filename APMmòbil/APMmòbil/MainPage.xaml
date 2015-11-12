@@ -28,12 +28,12 @@
 
         <!--ContentPanel. Colocar aquí el contenido adicional-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <ToggleButton Name="bien" Content="pos mu bien" VerticalAlignment="Top" HorizontalAlignment="Left" Checked="bien_Checked" Unchecked="bien_Checked"></ToggleButton>
-            <ToggleButton Name="lio" Content="¡Menudo lío!" VerticalAlignment="Top" HorizontalAlignment="Right" Checked="lio_Checked" Unchecked="lio_Checked"></ToggleButton>
-            <ToggleButton Name="follon" Content="Se va a ver follón" VerticalAlignment="Center" HorizontalAlignment="Left" Checked="follon_Checked" Unchecked="follon_Checked"></ToggleButton>
-            <ToggleButton Name="pocon" Content="En pocón" VerticalAlignment="Center" HorizontalAlignment="Right" Checked="pocon_Checked" Unchecked="pocon_Checked"></ToggleButton>
-            <ToggleButton Name="vist" Content="Ho haveu vist?" VerticalAlignment="Bottom" HorizontalAlignment="Right" Checked="vist_Checked" Unchecked="vist_Checked"></ToggleButton>
-            <ToggleButton Name="carteras" Content="A robar carteras" VerticalAlignment="Bottom" HorizontalAlignment="Left" Checked="carteras_Checked" Unchecked="carteras_Checked"></ToggleButton>
+            <Button Name="bien" Content="pos mu bien" VerticalAlignment="Top" HorizontalAlignment="Left" Click="bien_Checked"></Button>
+            <Button Name="lio" Content="¡Menudo lío!" VerticalAlignment="Top" HorizontalAlignment="Right" Click="lio_Checked"></Button>
+            <Button Name="follon" Content="Se va a ver follón" VerticalAlignment="Center" HorizontalAlignment="Left" Click="follon_Checked"></Button>
+            <Button Name="pocon" Content="En pocón" VerticalAlignment="Center" HorizontalAlignment="Right" Click="pocon_Checked"></Button>
+            <Button Name="vist" Content="Ho haveu vist?" VerticalAlignment="Bottom" HorizontalAlignment="Right" Click="vist_Checked"></Button>
+            <Button Name="carteras" Content="A robar carteras" VerticalAlignment="Bottom" HorizontalAlignment="Left" Click="carteras_Checked"></Button>
         </Grid>
     </Grid>
  

@@ -3,16 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APMmòbil", "APMmòbil\APMmòbil.csproj", "{F9BA5606-9382-42BD-8D80-E948B06446FF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{345A9804-87E3-4D93-BADF-3ECBFCA22BDD}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Desktop\bien.wav = ..\..\..\..\Desktop\bien.wav
-		..\..\..\..\Desktop\carteras.wav = ..\..\..\..\Desktop\carteras.wav
-		..\..\..\..\Desktop\follon.wav = ..\..\..\..\Desktop\follon.wav
-		..\..\..\..\Desktop\lio.wav = ..\..\..\..\Desktop\lio.wav
-		..\..\..\..\Desktop\pocon.wav = ..\..\..\..\Desktop\pocon.wav
-		..\..\..\..\Desktop\vist.wav = ..\..\..\..\Desktop\vist.wav
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

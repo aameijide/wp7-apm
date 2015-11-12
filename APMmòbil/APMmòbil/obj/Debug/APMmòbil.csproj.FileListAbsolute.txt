@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Debug\ApplicationIcon.png
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Debug\Background.png
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Debug\APMmòbil.dll
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Debug\APMmòbil.pdb
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Debug\AppManifest.xaml
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Debug\APMmòbil.xap
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Debug\App.g.i.cs
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Debug\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Debug\APMmòbil.g.resources
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Debug\APMmòbil.dll
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Debug\APMmòbil.pdb
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Debug\XapCacheFile.xml
