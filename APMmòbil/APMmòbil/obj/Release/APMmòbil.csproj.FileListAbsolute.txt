@@ -1,0 +1,13 @@
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\ApplicationIcon.png
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\Background.png
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\APMmòbil.dll
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\APMmòbil.pdb
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\AppManifest.xaml
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\APMmòbil.xap
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\ResolveAssemblyReference.cache
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\App.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\MainPage.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\APMmòbil.g.resources
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\APMmòbil.dll
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\APMmòbil.pdb
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\XapCacheFile.xml
