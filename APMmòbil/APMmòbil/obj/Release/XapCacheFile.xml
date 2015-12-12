@@ -1,14 +1,52 @@
-﻿<xapCache source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\APMmòbil.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="14/04/2012 00:01:24">
-  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="14/04/2012 00:01:23" />
+﻿<xapCache source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\APMmòbil.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="13/03/2013 22:18:49">
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="14/11/2012 18:24:48" />
   <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Background.png" archivePath="Background.png" lastWriteTime="11/04/2012 02:39:54" />
   <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11/04/2012 02:40:32" />
-  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\APMmòbil.dll" archivePath="APMmòbil.dll" lastWriteTime="14/04/2012 00:01:22" />
-  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\bien.wav" archivePath="Sounds\bien.wav" lastWriteTime="13/04/2012 00:56:29" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\APMmòbil.dll" archivePath="APMmòbil.dll" lastWriteTime="13/03/2013 22:15:44" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="29/08/2011 23:49:08" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\aixo.wav" archivePath="Sounds\aixo.wav" lastWriteTime="21/06/2012 14:21:04" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\bien.wav" archivePath="Sounds\bien.wav" lastWriteTime="10/07/2012 20:19:48" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\buenapersona.wav" archivePath="Sounds\buenapersona.wav" lastWriteTime="21/06/2012 18:31:29" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\cagada.wav" archivePath="Sounds\cagada.wav" lastWriteTime="01/03/2013 18:21:11" />
   <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\carteras.wav" archivePath="Sounds\carteras.wav" lastWriteTime="13/04/2012 00:56:29" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\clar.wav" archivePath="Sounds\clar.wav" lastWriteTime="21/06/2012 14:26:19" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\contracatalanes.wav" archivePath="Sounds\contracatalanes.wav" lastWriteTime="01/03/2013 18:47:03" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\crecno.wav" archivePath="Sounds\crecno.wav" lastWriteTime="21/06/2012 15:22:38" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\depredadores.wav" archivePath="Sounds\depredadores.wav" lastWriteTime="21/06/2012 15:17:15" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\dicho.wav" archivePath="Sounds\dicho.wav" lastWriteTime="21/06/2012 15:07:52" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\equivocacio.wav" archivePath="Sounds\equivocacio.wav" lastWriteTime="01/03/2013 18:11:14" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\excuseme.wav" archivePath="Sounds\excuseme.wav" lastWriteTime="21/06/2012 15:02:59" />
   <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\follon.wav" archivePath="Sounds\follon.wav" lastWriteTime="13/04/2012 00:56:29" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\freak.wav" archivePath="Sounds\freak.wav" lastWriteTime="21/06/2012 19:05:38" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\gumersindo.wav" archivePath="Sounds\gumersindo.wav" lastWriteTime="21/06/2012 15:43:51" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\investigacion.wav" archivePath="Sounds\investigacion.wav" lastWriteTime="21/06/2012 15:31:08" />
   <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\lio.wav" archivePath="Sounds\lio.wav" lastWriteTime="13/04/2012 00:56:29" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\manzanas.wav" archivePath="Sounds\manzanas.wav" lastWriteTime="01/03/2013 19:10:20" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\mundoloco.wav" archivePath="Sounds\mundoloco.wav" lastWriteTime="01/03/2013 19:15:44" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\nonoiara.wav" archivePath="Sounds\nonoiara.wav" lastWriteTime="21/06/2012 15:43:51" />
   <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\pocon.wav" archivePath="Sounds\pocon.wav" lastWriteTime="13/04/2012 00:56:29" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\porculo.wav" archivePath="Sounds\porculo.wav" lastWriteTime="01/03/2013 19:12:00" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\quediceud.wav" archivePath="Sounds\quediceud.wav" lastWriteTime="21/06/2012 16:02:08" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\cabron.wav" archivePath="Sounds\Radio\cabron.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\callar.wav" archivePath="Sounds\Radio\callar.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\carminaburana.wav" archivePath="Sounds\Radio\carminaburana.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\clos.wav" archivePath="Sounds\Radio\clos.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\figo.wav" archivePath="Sounds\Radio\figo.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\iaiacule.wav" archivePath="Sounds\Radio\iaiacule.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\mentira.wav" archivePath="Sounds\Radio\mentira.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\noigo.wav" archivePath="Sounds\Radio\noigo.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\resbarca.wav" archivePath="Sounds\Radio\resbarca.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\tato.wav" archivePath="Sounds\Radio\tato.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\treball.wav" archivePath="Sounds\Radio\treball.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\venut.wav" archivePath="Sounds\Radio\venut.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\Radio\xof.wav" archivePath="Sounds\Radio\xof.wav" lastWriteTime="10/07/2012 18:56:46" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\riomierda.wav" archivePath="Sounds\riomierda.wav" lastWriteTime="10/07/2012 20:07:03" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\sicuela.wav" archivePath="Sounds\sicuela.wav" lastWriteTime="21/06/2012 18:37:51" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\siseguro.wav" archivePath="Sounds\siseguro.wav" lastWriteTime="10/07/2012 20:39:39" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\tejodes.wav" archivePath="Sounds\tejodes.wav" lastWriteTime="10/07/2012 20:26:59" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\terrible.wav" archivePath="Sounds\terrible.wav" lastWriteTime="21/06/2012 15:11:11" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\tomaya.wav" archivePath="Sounds\tomaya.wav" lastWriteTime="21/06/2012 15:54:55" />
   <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Sounds\vist.wav" archivePath="Sounds\vist.wav" lastWriteTime="13/04/2012 00:56:29" />
-  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="10/04/2012 14:18:34" />
-  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/04/2012 02:44:26" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="21/06/2012 19:12:10" />
+  <file source="D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="13/03/2013 22:15:46" />
 </xapCache>

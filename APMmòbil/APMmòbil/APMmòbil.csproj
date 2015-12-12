@@ -49,6 +49,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Phone.Interop" />
     <Reference Include="Microsoft.Xna.Framework" />
     <Reference Include="System.Windows" />
@@ -65,7 +66,16 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Pivot.xaml.cs">
+      <DependentUpon>Pivot.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tilesRadio.xaml.cs">
+      <DependentUpon>tilesRadio.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="tilesTV.xaml.cs">
+      <DependentUpon>tilesTV.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -73,6 +83,18 @@
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
     <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pivot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="tilesRadio.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="tilesTV.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -88,14 +110,84 @@
     <Content Include="Background.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Resource Include="Images\aixo.png" />
+    <Resource Include="Images\clar.png" />
+    <Resource Include="Images\excuseme.png" />
+    <Resource Include="Images\dicho.png" />
+    <Resource Include="Images\terrible.png" />
+    <Resource Include="Images\depredadores.png" />
+    <Resource Include="Images\crecno.png" />
+    <Resource Include="Images\investigacion.png" />
+    <Resource Include="Images\gumersindo.png" />
+    <Resource Include="Images\nonoiara.png" />
+    <Resource Include="Images\tomaya.png" />
+    <Resource Include="Images\quediceud.png" />
+    <Resource Include="Images\buenapersona.png" />
+    <Resource Include="Images\sicuela.png" />
+    <Resource Include="Images\genericTV.png" />
+    <Resource Include="Images\freak.png" />
+    <Resource Include="Images\Radio\genericradio.png" />
+    <Resource Include="Images\Radio\callar.png" />
+    <Resource Include="Images\Radio\carminaburana.png" />
+    <Resource Include="Images\Radio\iaiacule.png" />
+    <Resource Include="Images\Radio\clos.png" />
+    <Resource Include="Images\Radio\figo.png" />
+    <Resource Include="Images\riomierda.png" />
+    <Resource Include="Images\bien.png" />
+    <Resource Include="Images\tejodes.png" />
+    <Resource Include="Images\siseguro.png" />
+    <Resource Include="Images\contracatalanes.png" />
+    <Resource Include="Images\cagada.png" />
+    <Resource Include="Images\equivocacio.png" />
+    <Resource Include="Images\manzanas.png" />
+    <Resource Include="Images\porculo.png" />
+    <Resource Include="Images\mundoloco.png" />
+    <Content Include="Sounds\aixo.wav" />
     <Content Include="Sounds\bien.wav" />
+    <Content Include="Sounds\buenapersona.wav" />
+    <Content Include="Sounds\cagada.wav" />
     <Content Include="Sounds\carteras.wav" />
+    <Content Include="Sounds\clar.wav" />
+    <Content Include="Sounds\contracatalanes.wav" />
+    <Content Include="Sounds\crecno.wav" />
+    <Content Include="Sounds\depredadores.wav" />
+    <Content Include="Sounds\dicho.wav" />
+    <Content Include="Sounds\equivocacio.wav" />
+    <Content Include="Sounds\excuseme.wav" />
     <Content Include="Sounds\follon.wav" />
+    <Content Include="Sounds\freak.wav" />
+    <Content Include="Sounds\gumersindo.wav" />
+    <Content Include="Sounds\investigacion.wav" />
     <Content Include="Sounds\lio.wav" />
+    <Content Include="Sounds\manzanas.wav" />
+    <Content Include="Sounds\mundoloco.wav" />
+    <Content Include="Sounds\nonoiara.wav" />
     <Content Include="Sounds\pocon.wav" />
+    <Content Include="Sounds\porculo.wav" />
+    <Content Include="Sounds\quediceud.wav" />
+    <Content Include="Sounds\Radio\cabron.wav" />
+    <Content Include="Sounds\Radio\callar.wav" />
+    <Content Include="Sounds\Radio\carminaburana.wav" />
+    <Content Include="Sounds\Radio\clos.wav" />
+    <Content Include="Sounds\Radio\figo.wav" />
+    <Content Include="Sounds\Radio\iaiacule.wav" />
+    <Content Include="Sounds\Radio\mentira.wav" />
+    <Content Include="Sounds\Radio\noigo.wav" />
+    <Content Include="Sounds\Radio\resbarca.wav" />
+    <Content Include="Sounds\Radio\tato.wav" />
+    <Content Include="Sounds\Radio\treball.wav" />
+    <Content Include="Sounds\Radio\venut.wav" />
+    <Content Include="Sounds\Radio\xof.wav" />
+    <Content Include="Sounds\riomierda.wav" />
+    <Content Include="Sounds\sicuela.wav" />
+    <Content Include="Sounds\siseguro.wav" />
+    <Content Include="Sounds\tejodes.wav" />
+    <Content Include="Sounds\terrible.wav" />
+    <Content Include="Sounds\tomaya.wav" />
     <Content Include="Sounds\vist.wav" />
     <Content Include="SplashScreenImage.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

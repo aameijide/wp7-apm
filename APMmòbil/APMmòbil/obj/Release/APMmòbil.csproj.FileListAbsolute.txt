@@ -17,9 +17,14 @@ D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\APMmòbil.dll
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\APMmòbil.pdb
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\AppManifest.xaml
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\APMmòbil.xap
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\Bin\Release\Microsoft.Phone.Controls.xml
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\ResolveAssemblyReference.cache
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\App.g.i.cs
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\Pivot.g.i.cs
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\tilesRadio.g.i.cs
+D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\tilesTV.g.i.cs
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\APMmòbil.g.resources
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\APMmòbil.dll
 D:\Visual Studio 2010\Projects\APMmòbil\APMmòbil\obj\Release\APMmòbil.pdb

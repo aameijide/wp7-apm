@@ -1,0 +1,99 @@
+﻿<UserControl x:Class="APMmòbil.tilesRadio"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="4800" d:DesignWidth="480">
+
+    <ListBox Background="Transparent">
+        <TextBlock Text="Prem l'àudio que vols sentir:" FontSize="20"/>
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="cabron_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\genericradio.png" Stretch="None" />
+                    <TextBlock Text="Cabrón" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="callar_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\callar.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="¿Te quieres callar?" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="carmina_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\carminaburana.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Carmina Burana" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="clos_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\clos.png" Stretch="None"/>
+                    <TextBlock Text="Clos i el bus" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="figo_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\figo.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Culpa d'en Figo" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="iaiacule_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\iaiacule.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Iaia Culé" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="mentira_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\genericradio.png" Stretch="None"/>
+                    <TextBlock Text="¡Mentira!" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="noigo_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\genericradio.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="¡Que no te oigo!" TextWrapping="Wrap" FontSize="15" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="resbarca_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\genericradio.png" Stretch="Uniform"  Height="45" Width="49"/>
+                    <TextBlock Text="Res més que el Barça" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="tato_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\genericradio.png" Stretch="None"/>
+                    <TextBlock Text="¡Ostia Tato!" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="treball_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\genericradio.png" Stretch="Uniform" Height="45" Width="49"/>
+                    <TextBlock Text="Llocs de treball" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="venut_Click">
+                <StackPanel>
+                    <Image Source="Images\Radio\genericradio.png" Stretch="None" />
+                    <TextBlock Text="Venut!" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+    </ListBox>
+</UserControl>

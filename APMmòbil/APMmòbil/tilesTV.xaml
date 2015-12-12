@@ -1,0 +1,227 @@
+﻿<UserControl x:Class="APMmòbil.tilesTV"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="4800" d:DesignWidth="480">
+    
+    <ListBox Background="Transparent">
+        <TextBlock Text="Prem l'àudio que vols sentir:" FontSize="20"/>
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="aixo_Click">
+                <StackPanel>
+                    <Image Source="Images\aixo.png" Stretch="None" />
+                    <TextBlock Text="Això que és?" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="clar_Click">
+                <StackPanel>
+                    <Image Source="Images\clar.png" Stretch="None"/>
+                    <TextBlock Text="Sí, clar, clar" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="excuseme_Click">
+                <StackPanel>
+                    <Image Source="Images\excuseme.png" Stretch="None"/>
+                    <TextBlock Text="Excuse me?" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="dicho_Click">
+            <StackPanel>
+                <Image Source="Images\dicho.png" Stretch="None"/>
+                <TextBlock Text="Lo ha dicho" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+            </StackPanel>
+        </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="terrible_Click">
+                <StackPanel>
+                    <Image Source="Images\terrible.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Terrible, apocalíptico" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="depredadores_Click">
+                <StackPanel>
+                    <Image Source="Images\depredadores.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Como los lobos, depredadores" TextWrapping="Wrap" FontSize="14" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="crecno_Click">
+                <StackPanel>
+                    <Image Source="Images/crecno.png" Stretch="None"/>
+                    <TextBlock Text="Crec que no" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="investigacion_Click">
+                <StackPanel>
+                    <Image Source="Images\investigacion.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Periodismo de investigación" TextWrapping="Wrap" FontSize="14" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="nonoiara_Click">
+                <StackPanel>
+                    <Image Source="Images\nonoiara.png" Stretch="None"/>
+                    <TextBlock Text="No, no, i ara!" TextWrapping="NoWrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="gumersindo_Click">
+                <StackPanel>
+                    <Image Source="Images\gumersindo.png" Stretch="None"/>
+                    <TextBlock Text="Gumersindo" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="tomaya_Click">
+                <StackPanel>
+                    <Image Source="Images\tomaya.png" Stretch="None"/>
+                    <TextBlock Text="¡Toma ya!" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="quediceud_Click">
+                <StackPanel>
+                    <Image Source="Images\quediceud.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Que dice, Usted?" TextWrapping="Wrap" FontSize="17" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="buenapersona_Click">
+                <StackPanel>
+                    <Image Source="Images\buenapersona.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Buena persona" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="sicuela_Click">
+                <StackPanel>
+                    <Image Source="Images\sicuela.png" Stretch="None"/>
+                    <TextBlock Text="Si cuela, cuela" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="freak_Click">
+                <StackPanel>
+                    <Image Source="Images\freak.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Tu ets un freak!" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="riomierda_Click">
+                <StackPanel>
+                    <Image Source="Images\riomierda.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="¿El río? ¡Una mierda!" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="tejodes_Click">
+                <StackPanel>
+                    <Image Source="Images\tejodes.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="¡Te jodes y bailas!" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="siseguro_Click">
+                <StackPanel>
+                    <Image Source="Images\siseguro.png" Stretch="None" />
+                    <TextBlock Text="Sí, ¿seguro?" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="bien_Click">
+                <StackPanel>
+                    <Image Source="Images\bien.png" Stretch="None" />
+                    <TextBlock Text="¡Po' mu' bien!" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="carteras_Click">
+                <StackPanel>
+                    <Image Source="Images\genericTV.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="A robar carteras" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="follon_Click">
+                <StackPanel>
+                    <Image Source="Images\genericTV.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Se va haver un follón" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="lio_Click">
+                <StackPanel>
+                    <Image Source="Images\genericTV.png" Stretch="None" />
+                    <TextBlock Text="¡Menudo lío!" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="pocon_Click">
+                <StackPanel>
+                    <Image Source="Images\genericTV.png" Stretch="None"/>
+                    <TextBlock Text="En Pocón" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="vist_Click">
+                <StackPanel>
+                    <Image Source="Images\genericTV.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Ho haveu vist?" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="equivocacio_Click">
+                <StackPanel>
+                    <Image Source="Images\equivocacio.png" Stretch="None" />
+                    <TextBlock Text="Això és una equivocació" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="cagada_Click">
+                <StackPanel>
+                    <Image Source="Images\cagada.png" Stretch="None"/>
+                    <TextBlock Text="La cagada es importante" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="contracatalanes_Click">
+                <StackPanel>
+                    <Image Source="Images\contracatalanes.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Contra los catalanes" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Margin="-290,0,0,0" Height="124" Width="155" Click="manzanas_Click">
+                <StackPanel>
+                    <Image Source="Images\manzanas.png" Stretch="None" />
+                    <TextBlock Text="Manzanas" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="138,-125,150,0" Height="124" Width="155" Click="porculo_Click">
+                <StackPanel>
+                    <Image Source="Images\porculo.png" Stretch="None"/>
+                    <TextBlock Text="A tomar por culo" TextWrapping="Wrap" FontSize="18" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+            <Button Margin="282,-125,0,0" Height="124" Width="155" Click="contracatalanes_Click">
+                <StackPanel>
+                    <Image Source="Images\mundoloco.png" Stretch="Uniform" Height="45" Width="49" />
+                    <TextBlock Text="Loco mundo" TextWrapping="Wrap" FontSize="16" TextAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+
+
+    </ListBox>
+</UserControl>

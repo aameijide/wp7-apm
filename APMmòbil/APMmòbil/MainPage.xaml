@@ -10,7 +10,8 @@
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
-    SupportedOrientations="Portrait" Orientation="Portrait"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    xmlns:local="clr-namespace:APMmòbil"
     shell:SystemTray.IsVisible="True">
 
     <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
@@ -22,31 +23,22 @@
 
         <!--TitlePanel contiene el nombre de la aplicación y el título de la página-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock x:Name="ApplicationTitle" Text="APM? Mòbil" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock x:Name="PageTitle" Text="Escull àudio" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <Canvas>
+                <Image Source="Images/GenericTV.png" Height="101" Width="108" Margin="0,0,0,0" />
+                <TextBlock x:Name="PageTitle" Text="APM mòbil" Margin="110,0,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            </Canvas>
+            <TextBlock><LineBreak/></TextBlock>
+            <TextBlock><LineBreak/></TextBlock>
+
+            <!--<TextBlock x:Name="ApplicationTitle" Text="APM? Mòbil" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Escull àudio" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/> -->
         </StackPanel>
 
         <!--ContentPanel. Colocar aquí el contenido adicional-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Button Name="bien" Content="pos mu bien" VerticalAlignment="Top" HorizontalAlignment="Left" Click="bien_Checked"></Button>
-            <Button Name="lio" Content="¡Menudo lío!" VerticalAlignment="Top" HorizontalAlignment="Right" Click="lio_Checked"></Button>
-            <Button Name="follon" Content="Se va a ver follón" VerticalAlignment="Center" HorizontalAlignment="Left" Click="follon_Checked"></Button>
-            <Button Name="pocon" Content="En pocón" VerticalAlignment="Center" HorizontalAlignment="Right" Click="pocon_Checked"></Button>
-            <Button Name="vist" Content="Ho haveu vist?" VerticalAlignment="Bottom" HorizontalAlignment="Right" Click="vist_Checked"></Button>
-            <Button Name="carteras" Content="A robar carteras" VerticalAlignment="Bottom" HorizontalAlignment="Left" Click="carteras_Checked"></Button>
+            <!-- Separació alçada: 24-->
+            <local:Pivot />
         </Grid>
     </Grid>
- 
-    <!--Código de ejemplo que muestra el uso de ApplicationBar-->
-    <!--<phone:PhoneApplicationPage.ApplicationBar>
-        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
-            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Botón 1"/>
-            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Botón 2"/>
-            <shell:ApplicationBar.MenuItems>
-                <shell:ApplicationBarMenuItem Text="Elemento de menú 1"/>
-                <shell:ApplicationBarMenuItem Text="Elemento de menú 2"/>
-            </shell:ApplicationBar.MenuItems>
-        </shell:ApplicationBar>
-    </phone:PhoneApplicationPage.ApplicationBar>-->
 
 </phone:PhoneApplicationPage>
